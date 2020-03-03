@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">「あ」が増えるアプリ</string>
+    <string name="AddButtonText">押す！！</string>
 </resources>
